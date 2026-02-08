@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-google-genai
+google-generativeai
+pydantic
+requests
+beautifulsoup4
+chromadb
+python-dotenv
+streamlit
+tavily-python>=0.5.0
